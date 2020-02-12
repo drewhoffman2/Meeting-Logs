@@ -1,0 +1,13 @@
+Milestone 2 by Friday
+
+Decided on 6 main features in which we will create requirements document for
+1. Recipe upload
+2. MyFridge utility
+3. User account system
+4. Ratings and review system
+5. Shopping cart for deficient ingredients in recipes
+6. Profile browser with follow/friend system
+
+downloaded toggl plan to create kanban board for organization
+
+tomorrow: organize kanban board and ge3t started on requirements docs
