@@ -1,0 +1,9 @@
+Continue working on front end.
+Look at milestone next week to complete
+
+Decided on who is doing each page of our website:
+1. Login/create account/Home - Jared
+2. My recipes - Alex
+3. Search - Vanessa
+4. My friends - Katelyn
+5. Add new recipe - Drew
