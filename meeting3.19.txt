@@ -1,0 +1,8 @@
+Questions to ask Shravan during Milestone 3 lab:
+How to store each account, recipe, freinds on a database
+How to connect those together
+
+What we did:
+Connected all of our front end pages
+Discussed questions we had
+Discussed what we need for back end
